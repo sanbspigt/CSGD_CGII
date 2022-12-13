@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\CSGD_Solutions\CSGD_CGII_vs2022\src\1.question\1.0.square_fragment_interpolation\hello_triangle_indexed.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\CSGD_Solutions\CSGD_CGII_vs2022\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69D8C172-C09A-3A82-94FC-56960CA57F9A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

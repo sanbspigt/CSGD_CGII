@@ -1,0 +1,14 @@
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/STB_IMAGE.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/GLAD.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__1.0.square_fragment_interpolation.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__2.0.textures_sampling.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__3.0.cubes_transformations.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__4.0.cubes_camera_class.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__5.0.phongs_lighting_model.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__6.0.materials_properties.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__7.0.lighting_maps_specular_map.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__8.0.multiple_lights.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__9.0.model_loading.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/1.question__10.0.shadow_mapping.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/ALL_BUILD.dir
+F:/CSGD_Solutions/CSGD_CGII_vs2022/CMakeFiles/ZERO_CHECK.dir
