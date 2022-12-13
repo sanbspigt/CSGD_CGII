@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\8.0.multiple_lights\multiple_lights.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\10Questions\CSGD_CGII\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\8.0.multiple_lights\6.light_cube.fs" />
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\8.0.multiple_lights\6.light_cube.vs" />
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\8.0.multiple_lights\6.multiple_lights.fs" />
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\8.0.multiple_lights\6.multiple_lights.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44314254-E39D-39B5-9979-A713F5386620}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

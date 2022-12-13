@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\4.0.cubes_camera_class\camera_class.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\10Questions\CSGD_CGII\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\4.0.cubes_camera_class\7.4.camera.fs" />
+    <None Include="D:\Projects\10Questions\CSGD_CGII\src\1.question\4.0.cubes_camera_class\7.4.camera.vs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44314254-E39D-39B5-9979-A713F5386620}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
