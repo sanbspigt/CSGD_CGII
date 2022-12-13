@@ -1,0 +1,10 @@
+^D:\PROJECTS\10QUESTIONS\CSGD_CGII\CMAKEFILES\F319F073FFBB40FCACB94FE4AF94AE93\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Projects/10Questions/CSGD_CGII -BD:/Projects/10Questions/CSGD_CGII --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/10Questions/CSGD_CGII/CSGD_CGII.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
